@@ -20,5 +20,7 @@ int main()
     else 
       printf("Result: ไม่มีไข้\n");
       
+    // ทดสอบ branch
+    
     return 0;
 }
